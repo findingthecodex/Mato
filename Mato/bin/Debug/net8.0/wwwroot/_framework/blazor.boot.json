@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Mato",
   "resources": {
-    "hash": "sha256-Cd+NyLgLZi2ZyhpnINQrRZrmYRPGNwmMNnCnbXXRu8c=",
+    "hash": "sha256-ochpFKf70qzrhZt17Vq1f99bfJ2X9im3JfCXb9UEiJY=",
     "jsModuleNative": {
       "dotnet.native.8.0.19.s1qliodn9g.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -211,10 +211,10 @@
       "mscorlib.wasm": "sha256-RLW/7NVuhoPfq151II3kX2kWHgBwQgpCw9aemQNg3to=",
       "netstandard.wasm": "sha256-lAg5WvTiA8wbsIwlr51xh0YWpXT9F5EX3Cnv+11O/mU=",
       "System.Private.CoreLib.wasm": "sha256-3O3muuRQwoLRecYRjfIFWUURvTjP4EmD2O8wYg2UDNY=",
-      "Mato.wasm": "sha256-FOG8+/5n0sqM58Ry7Zz7Viqkg0PdnQdF+brDd4Ro6jo="
+      "Mato.wasm": "sha256-EzYS/EyveJ3wSeDoCxSHNL3eWhqhE8jh77SVsjIxKgI="
     },
     "pdb": {
-      "Mato.pdb": "sha256-ePIyaXeNhQHgT0CsmhUe2b9W4i66KI36/RjIMSZWT7k="
+      "Mato.pdb": "sha256-J87ARpG+thpNwHYxwtTvI1rNVbN/S0FAFQw+eWBO5xo="
     }
   },
   "cacheBootResources": true,
