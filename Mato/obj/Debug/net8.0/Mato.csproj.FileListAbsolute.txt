@@ -1029,3 +1029,4 @@ C:\Users\Giang\RiderProjects\Mato\Mato\obj\Debug\net8.0\Mato.dll
 C:\Users\Giang\RiderProjects\Mato\Mato\obj\Debug\net8.0\refint\Mato.dll
 C:\Users\Giang\RiderProjects\Mato\Mato\obj\Debug\net8.0\Mato.pdb
 C:\Users\Giang\RiderProjects\Mato\Mato\obj\Debug\net8.0\ref\Mato.dll
+C:\Users\Giang\RiderProjects\Mato\Mato\obj\Debug\net8.0\Mato.sourcelink.json
